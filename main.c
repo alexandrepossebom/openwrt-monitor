@@ -1,5 +1,5 @@
 /*
- *
+ * Copyright 2014 Alexandre Possebom
  * This file is part of OpenWRT Monitor.
  *
  *   OpenWRT Monitor is free software: you can redistribute it and/or modify
